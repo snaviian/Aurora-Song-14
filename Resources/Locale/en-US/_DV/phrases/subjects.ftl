@@ -247,3 +247,22 @@ phrase-onion = onion
 phrase-aloe = aloe
 phrase-poppy = poppy
 phrase-galaxythistle = galaxythistle
+
+# aurora song
+phrase-cook = cook
+phrase-fresh = fresh
+phrase-rotten = rotten
+phrase-ore = ore
+phrase-rock = rock
+phrase-helium = helium
+phrase-ammonia = ammonia
+phrase-respiron = respiron
+phrase-wall = wall
+phrase-time = time
+phrase-friend = friend
+phrase-crew = crew
+phrase-ftl = FTL
+phrase-nanochat = nanochat
+phrase-nano = nano
+phrase-ship = ship
+phrase-vessel = vessel

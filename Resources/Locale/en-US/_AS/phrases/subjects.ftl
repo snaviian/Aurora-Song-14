@@ -19,3 +19,4 @@ phrase-emotion-nervous = nervous
 phrase-emotion-love = love
 phrase-emotion-grateful = grateful
 phrase-emotion-bored = bored
+phrase-emotion-fun = fun

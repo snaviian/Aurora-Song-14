@@ -15,9 +15,9 @@
   text: phrase-need
 
 - type: quickPhrase
-  id: WantPhrase
+  id: IWantPhrase
   parent: BaseImperativePhrase
-  text: phrase-want
+  text: phrase-iwant
 
 - type: quickPhrase
   id: CantPhrase
@@ -74,7 +74,18 @@
   parent: BaseImperativePhrase
   text: phrase-stay
 
+ #aurora song
 - type: quickPhrase
-  id: StopPhrase
+  id: HerePhrase
   parent: BaseImperativePhrase
-  text: phrase-stop
+  text: phrase-here
+
+- type: quickPhrase
+  id: LaterPhrase
+  parent: BaseImperativePhrase
+  text: phrase-later
+
+- type: quickPhrase
+  id: TherePhrase
+  parent: BaseImperativePhrase
+  text: phrase-there

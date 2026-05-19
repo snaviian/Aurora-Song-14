@@ -368,3 +368,44 @@
   id: ColorGrayPhrase
   parent: BaseColorPhrase
   text: phrase-color-gray
+
+ #aurora song
+- type: quickPhrase
+  id: TimePhrase
+  parent: BaseMaterialPhrase
+  text: phrase-time
+
+- type: quickPhrase
+  id: FriendPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-friend
+
+- type: quickPhrase
+  id: CrewPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-crew
+
+- type: quickPhrase
+  id: FTLPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-ftl
+
+- type: quickPhrase
+  id: NanochatPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-nanochat
+
+- type: quickPhrase
+  id: NanoPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-nano
+
+- type: quickPhrase
+  id: ShipPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-ship
+
+- type: quickPhrase
+  id: VesselPhrase
+  parent: BaseMaterialPhrase
+  text: phrase-vessel
