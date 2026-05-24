@@ -197,9 +197,3 @@
   id: GalaxyThistlePhrase
   parent: BaseServiceSubjectPhrase
   text: phrase-galaxythistle
-
- #aurora song
-- type: quickPhrase
-  id: CookPhrase
-  parent: BaseServiceSubjectPhrase
-  text: phrase-cook

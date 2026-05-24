@@ -73,19 +73,3 @@
   id: StayPhrase
   parent: BaseImperativePhrase
   text: phrase-stay
-
- #aurora song
-- type: quickPhrase
-  id: HerePhrase
-  parent: BaseImperativePhrase
-  text: phrase-here
-
-- type: quickPhrase
-  id: LaterPhrase
-  parent: BaseImperativePhrase
-  text: phrase-later
-
-- type: quickPhrase
-  id: TherePhrase
-  parent: BaseImperativePhrase
-  text: phrase-there

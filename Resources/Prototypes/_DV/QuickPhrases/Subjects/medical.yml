@@ -187,14 +187,3 @@
   id: LimbsPhrase
   parent: BaseMedicinePhrase
   text: phrase-limbs
-
-  #aurora song
-- type: quickPhrase
-  id: FreshPhrase
-  parent: BaseMedicinePhrase
-  text: phrase-fresh
-
-- type: quickPhrase
-  id: RottenPhrase
-  parent: BaseMedicinePhrase
-  text: phrase-rotten
