@@ -57,8 +57,4 @@
   id: StarPhrase
   parent: BaseMaterialPhrase
   text: phrase-star
-
-- type: quickPhrase
-  id: SleepPhrase
-  parent: BaseMaterialPhrase
-  text: phrase-sleep
+  

@@ -14,7 +14,7 @@
   parent: BaseImperativePhrase
   text: phrase-need
 
-- type: quickPhrase
+- type: quickPhrase #aurora song - changed from WantPhrase and phrase-want to IWantPhrase and phrase-iwant
   id: IWantPhrase
   parent: BaseImperativePhrase
   text: phrase-iwant
@@ -70,6 +70,12 @@
   text: phrase-leave
 
 - type: quickPhrase
+  id: StopPhrase
+  parent: BaseImperativePhrase
+  text: phrase-stop
+
+- type: quickPhrase
   id: StayPhrase
   parent: BaseImperativePhrase
   text: phrase-stay
+  
