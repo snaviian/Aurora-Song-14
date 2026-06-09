@@ -8,7 +8,6 @@ phrase-evening = evening
 phrase-goodnight = goodnight
 phrase-exclamationmark = !
 phrase-questionmark = ?
-phrase-sleep = sleep
 phrase-ride = ride
 phrase-join = join
 phrase-hiring = hiring
