@@ -48,7 +48,6 @@ phrase-nanochat = nanochat
 phrase-nano = nano
 phrase-ship = ship
 phrase-vessel = vessel
-phrase-space = space
 phrase-moon = moon
 phrase-sun = sun
 phrase-star = star

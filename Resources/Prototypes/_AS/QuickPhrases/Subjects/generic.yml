@@ -39,11 +39,6 @@
   text: phrase-vessel
 
 - type: quickPhrase
-  id: SpacePhrase
-  parent: BaseMaterialPhrase
-  text: phrase-space
-
-- type: quickPhrase
   id: MoonPhrase
   parent: BaseMaterialPhrase
   text: phrase-moon
