@@ -78,4 +78,3 @@
   id: EatPhrase
   parent: BaseActionPhrase
   text: phrase-eat
-  

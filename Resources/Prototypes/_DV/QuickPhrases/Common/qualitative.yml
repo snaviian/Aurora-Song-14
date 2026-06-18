@@ -82,5 +82,4 @@
 - type: quickPhrase
   id: NotPhrase
   parent: BaseQualitativePhrase
-  text: phrase-not
-  
+  text: phrase-not  
