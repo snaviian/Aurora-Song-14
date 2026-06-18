@@ -51,4 +51,3 @@ phrase-vessel = vessel
 phrase-moon = moon
 phrase-sun = sun
 phrase-star = star
-phrase-sleep = sleep
