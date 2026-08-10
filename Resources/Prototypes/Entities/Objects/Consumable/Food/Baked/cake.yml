@@ -78,8 +78,8 @@
   description: Stains your teeth.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: berry
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: berry # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeBlueberrySlice
@@ -88,7 +88,7 @@
     - Cake
     - Fruit
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -106,15 +106,15 @@
   description: Stains your teeth.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: berry-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: berry-slice # Aurora's Song - removed alpha filling for sprite
   - type: Tag
     tags:
     - Cake
     - Fruit
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -161,8 +161,8 @@
   description: A favorite desert of a certain wascally wabbit.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: carrot
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: carrot # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeCarrotSlice
@@ -186,7 +186,7 @@
     - Cake
     - Vegetable
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -206,8 +206,8 @@
   description: Carrotty slice of carrot cake. Carrots are good for your eyes!
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: carrot-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: carrot-slice # Aurora's Song - removed alpha filling for sprite
   - type: Solution
     solution:
       reagents:
@@ -229,7 +229,7 @@
     - Vegetable
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -306,13 +306,13 @@
   description: DANGEROUSLY cheesy.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: cheese
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: cheese # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeCheeseSlice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -330,10 +330,10 @@
   description: Slice of pure cheestisfaction.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: cheese-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: cheese-slice # Aurora's Song - removed alpha filling for sprite
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -352,8 +352,8 @@
   description: A cake with added orange.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: orange
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: orange # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeOrangeSlice
@@ -362,7 +362,7 @@
     - Cake
     - Fruit
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -379,15 +379,15 @@
   id: FoodCakeOrangeSlice
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: orange-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: orange-slice # Aurora's Song - removed alpha filling for sprite
   - type: Tag
     tags:
     - Cake
     - Fruit
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -406,8 +406,8 @@
   description: A cake with added lime.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: lime
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: lime # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeLimeSlice
@@ -416,7 +416,7 @@
     - Cake
     - Fruit
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -433,15 +433,15 @@
   id: FoodCakeLimeSlice
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: lime-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: lime-slice # Aurora's Song - removed alpha filling for sprite
   - type: Tag
     tags:
     - Cake
     - Fruit
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -460,8 +460,8 @@
   description: A cake with added lemon.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: lemon
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: lemon # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeLemonSlice
@@ -470,7 +470,7 @@
     - Cake
     - Fruit
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -487,15 +487,15 @@
   id: FoodCakeLemonSlice
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: lemon-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: lemon-slice # Aurora's Song - removed alpha filling for sprite
   - type: Tag
     tags:
     - Cake
     - Fruit
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -592,8 +592,8 @@
   description: A cake with added chocolate.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: chocolate
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: chocolate # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeChocolateSlice
@@ -613,7 +613,7 @@
       - ReagentId: Flavorol # Frontier
         Quantity: 20 # Frontier
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: alpha-inhand-left
@@ -628,8 +628,8 @@
   id: FoodCakeChocolateSlice
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: chocolate-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: chocolate-slice # Aurora's Song - removed alpha filling for sprite
   - type: Solution
     solution:
       reagents:
@@ -646,7 +646,7 @@
       - ReagentId: Flavorol # Frontier
         Quantity: 4 # Frontier
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: alpha-slice-inhand-left
@@ -663,8 +663,8 @@
   description: A cake centred with apple.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: apple
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: apple # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakeAppleSlice
@@ -673,7 +673,7 @@
     - Cake
     - Fruit
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -691,15 +691,15 @@
   description: A slice of heavenly cake.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: apple-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: apple-slice # Aurora's Song - removed alpha filling for sprite
   - type: Tag
     tags:
     - Cake
     - Fruit
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
@@ -774,8 +774,8 @@
   description: A hollow cake with real pumpkin.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: pumpkin
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: pumpkinspice # Aurora's Song - removed alpha filling for sprite
   - type: SliceableFood
     count: 8
     slice: FoodCakePumpkinSlice
@@ -795,7 +795,7 @@
     - Cake
     - Fruit
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-inhand-left
@@ -813,8 +813,8 @@
   description: A spicy slice of pumpkin goodness.
   components:
   - type: Sprite
-    sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: pumpkin-slice
+    sprite: _AS/Objects/Consumable/Food/Cakes.rsi # Aurora's Song
+    state: pumpkinspice-slice # Aurora's Song - removed alpha filling for sprite
   - type: Solution
     solution:
       reagents:
@@ -832,7 +832,7 @@
     - Fruit
     - Slice
   - type: Item
-    sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
+    sprite: Objects/Consumable/Food/Baked/cake.rsi # Aurora's Song - keeping the original inhand
     inhandVisuals:
       left:
       - state: plain-slice-inhand-left
