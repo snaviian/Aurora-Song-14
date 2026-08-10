@@ -162,7 +162,7 @@
   components:
   - type: Sprite
     sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: as-carrot
+    state: carrot
   - type: SliceableFood
     count: 8
     slice: FoodCakeCarrotSlice
@@ -207,7 +207,7 @@
   components:
   - type: Sprite
     sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: as-carrot-slice
+    state: carrot-slice
   - type: Solution
     solution:
       reagents:
@@ -307,7 +307,7 @@
   components:
   - type: Sprite
     sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: as-cheese
+    state: cheese
   - type: SliceableFood
     count: 8
     slice: FoodCakeCheeseSlice
@@ -331,7 +331,7 @@
   components:
   - type: Sprite
     sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: as-cheese-slice
+    state: cheese-slice
   - type: Item
     sprite: Objects/Consumable/Food/Baked/cake.rsi #aurora's song
     inhandVisuals:
@@ -775,7 +775,7 @@
   components:
   - type: Sprite
     sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: as-pumpkin
+    state: pumpkin
   - type: SliceableFood
     count: 8
     slice: FoodCakePumpkinSlice
@@ -814,7 +814,7 @@
   components:
   - type: Sprite
     sprite: _AS/Objects/Consumable/Food/Cakes.rsi #aurora's song
-    state: as-pumpkin-slice
+    state: pumpkin-slice
   - type: Solution
     solution:
       reagents:
